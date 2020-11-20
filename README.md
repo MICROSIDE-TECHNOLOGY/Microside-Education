@@ -6,7 +6,7 @@
 
 ### Microside - Education 🏛 
 
-Welcome to oficial Microside repository, here you can found all practices and examples include in [Xide.pro](https://microside.com/educativo/).
+Welcome to oficial Microside repository, here you can found all practices and examples include in [Microside](https://microside.com/educativo/).
 
 
 
